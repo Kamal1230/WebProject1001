@@ -17,11 +17,12 @@ public class Operator {
 		
 		else
 			if (result < 660 && result >=550) {
-				System.out.println(" you are in second Division.");
+				System.out.println(" you passed in second Division.");
 			}
 			else {
-				System.out.println("You Barely pass the exam. study Hard");
+				System.out.println("You rarely pass the exam. study Hard");
 			}
+		
 	}
 	}
 	
